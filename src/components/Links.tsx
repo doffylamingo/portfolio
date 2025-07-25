@@ -9,7 +9,7 @@ export default function Links() {
       />
       <LinkItem
         name="LinkedIn"
-        href="https://github.com/doffylamingo"
+        href="https://linkedin.com/in/nowietorres"
       />
       <LinkItem
         name="Email"
